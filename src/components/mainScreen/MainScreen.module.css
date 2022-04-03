@@ -1,0 +1,25 @@
+.mainScreen {
+    height: 100%;
+    background: blanchedalmond;
+    padding-top: 60px;
+    padding-bottom: 30px;
+
+}
+
+.mainScreenContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.text {
+    width: 400px;
+    background: #e0e0e0;
+}
+
+.photo {
+    width: 400px;
+    height: 500px;
+    background: #e0e0e0;
+}

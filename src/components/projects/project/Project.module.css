@@ -1,0 +1,16 @@
+.project {
+    width: 400px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.link {
+    cursor: pointer;
+    display: block;
+    height: 300px;
+    width: 100%;
+    background: #eaddfa;
+}

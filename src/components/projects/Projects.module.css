@@ -1,0 +1,21 @@
+.projects {
+    height: 100%;
+    background: #eaddfa;
+    text-align: center;
+}
+
+.projectsContainer {
+    padding-top: 60px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.projectsWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,65 @@
+.contacts {
+    height: 100%;
+    background: #f9d6ff;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.contactsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactsWrapper {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.myContacts {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardContact {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.cardContactTitle {
+    margin-top: 0;
+}
+
+.cardContactLink {
+    margin: 0;
+}
+
+.contactMe {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contactsForm {
+    width: 100%;
+}
+
+.input {
+    width: 100%;
+    border: 1px solid;
+}
+
+.text {
+    width: 100%;
+    resize: vertical;
+}

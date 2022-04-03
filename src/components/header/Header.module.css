@@ -1,0 +1,13 @@
+.header {
+    height: 100%;
+    background: lightskyblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.headerContainer {
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
