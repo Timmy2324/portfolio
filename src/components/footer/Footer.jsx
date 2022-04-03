@@ -6,7 +6,7 @@ export const Footer = () => {
         <div className={s.footer}>
             <div className={`${s.footerContainer} container`}>
                 <h2 className='h2 border'>
-                    Kek
+                    My social networks
                 </h2>
                 <div className={s.linksWrapper}>
                     <div className={`${s.links} border`}>
